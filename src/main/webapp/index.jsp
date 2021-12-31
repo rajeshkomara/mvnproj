@@ -7,9 +7,9 @@
     </head>
     <body>
         <h1>Demo Project from Devops8-9AM BATCH</h1>
-        <h1>Nice day DEVOPS8-9AM BATCH.....</h1>
-        <h1>Nice day DEVOPS8-9AM BATCH.....</h1>
-        <h1>Nice day DEVOPS8-9AM BATCH.....</h1>
+        <h1>Nice day DEVOPS8-9AM BATCH1.....</h1>
+        <h1>Nice day DEVOPS8-9AM BATCH1.....</h1>
+        <h1>Nice day DEVOPS8-9AM BATCH1.....</h1>
 
 
 <table width="60%" bgcolor="green" align="center" border="2">
